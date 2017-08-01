@@ -1,2 +1,2 @@
 # payara-micro-test
-An simple aaplication to know how payara micro works
+An simple aplication to know how payara micro works
